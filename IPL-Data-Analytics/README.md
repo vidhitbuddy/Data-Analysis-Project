@@ -8,6 +8,28 @@ The goal is to transform raw match-level and ball-by-ball datasets into meaningf
 
 The analysis focuses on identifying performance trends, winning strategies, team consistency, scoring patterns, toss impact, venue advantages, and historical team comparisons.
 
+## Project Visualizations
+
+### Number of Matches Played
+
+![Matches Played](No%20of%20matches%20played.png)
+
+### Teams with Most Matches Played
+
+![Teams Played](teams%20with%20most%20matches%20played.png)
+
+### Teams with Highest Win Percentage
+
+![Win Percentage](teams%20with%20highest%20win%20percentage.png)
+
+### Toss Decision Trend
+
+![Toss Trend](toss%20decision%20trend.png)
+
+### IPL Winners Over the Years
+
+![IPL Winners](ipl%20winners%20over%20the%20years.png)
+
 ---
 
 ## Business Problem
